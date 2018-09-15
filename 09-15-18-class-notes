@@ -1,0 +1,28 @@
+09-15-18 class notes
+
+Maven
+
+Selenium:
+
+Selenium IDE
+Selenium Rc is known as Selenium 1
+Selenium WebDriver is known as Selenium 2
+Selenium Grid
+
+https://www.seleniumhq.org/download/
+
+https://github.com/mozilla/geckodriver/releases
+
+Selenium API:
+
+https://seleniumhq.github.io/selenium/docs/api/java/
+
+Locator:
+ID
+Name
+CSS
+XPath
+ClassName
+
+
+Framework: It is a collection of Interfaces and classes to simplify development process.
