@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Amazon API Automation Script " duration-ms="25205" started-at="2018-09-16T16:12:26Z" finished-at="2018-09-16T16:12:51Z">
+    <groups>
+    </groups>
+    <test name="Search Test" duration-ms="25205" started-at="2018-09-16T16:12:26Z" finished-at="2018-09-16T16:12:51Z">
+      <class name="search.TestSearch">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:search.TestSearch@4bbfb90a]" name="setUp" is-config="true" duration-ms="16003" started-at="2018-09-16T16:12:26Z" finished-at="2018-09-16T16:12:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.amazon.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchData()[pri:0, instance:search.TestSearch@4bbfb90a]" name="searchData" duration-ms="8176" started-at="2018-09-16T16:12:42Z" finished-at="2018-09-16T16:12:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchData -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:search.TestSearch@4bbfb90a]" name="cleanUp" is-config="true" duration-ms="1011" started-at="2018-09-16T16:12:50Z" finished-at="2018-09-16T16:12:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- search.TestSearch -->
+    </test> <!-- Search Test -->
+  </suite> <!-- Amazon API Automation Script  -->
+</testng-results>
