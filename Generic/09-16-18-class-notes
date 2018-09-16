@@ -1,0 +1,53 @@
+09-16-18 class notes
+
+
+Framework:
+
+Page Object Model
+Data Driven
+Keyword
+Hybrid
+
+
+Locator:
+https://www.w3schools.com/cssref/css_selectors.asp
+https://www.w3schools.com/xml/xpath_syntax.asp
+
+
+
+
+Domains:
+
+1)eCommerce——>Amazon,Alibaba,ebay
+2)Finance     ———> TD Bank, UBS,
+3)Social Network—>Facebook, Instagram,SnapChat,Twitter
+4)Retail.   —————> Bed bath & Beyond, BestBuy,Target,Costco
+5)Health Care————> Obama Care, Cigna
+6)Insurance Company—> Metlife, Allstate
+7) Education—>  Udemy,Udacity
+8)Media——>HBO,Fox,Huffingtonpost, New York Post
+
+Team of 4 people:
+
+Team 1:
+
+Kiran: Social network(Facebook) 70%
+Luis: Finance(TD Bank) 70 % + 10%(f,HBO,BestBuy)—Captain
+Jennifer: Media: (HBO,NYP)
+Jewel: Retail(BestBuy)
+
+100 test cases:
+
+Reporting Tool:
+
+Loging:
+Log4j
+
+
+ATU Reporting
+Extent Report
+
+Local
+Cloud: Saucelabs, Browserstack
+
+

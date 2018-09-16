@@ -6,11 +6,9 @@ import com.mongodb.client.FindIterable;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
 import org.bson.Document;
-import parser.Student;
 
 import java.util.ArrayList;
 import java.util.List;
-
 
 /**
  * Created by mrahman on 09/09/18.
