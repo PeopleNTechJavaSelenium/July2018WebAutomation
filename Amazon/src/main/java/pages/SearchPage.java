@@ -54,6 +54,7 @@ public class SearchPage {
         for(int i=0; i<list.size(); i++) {
             searchFor(list.get(i));
             submitSearchButton();
+            //validate books data
             clearInput();
         }
     }
