@@ -90,8 +90,8 @@ public class CommonAPI {
     }
 
     public WebDriver driver = null;
-    public String browserstack_username= "your user name";
-    public String browserstack_accesskey = "your access key";
+    public String browserstack_username= "";
+    public String browserstack_accesskey = "";
     public String saucelabs_username = "";
     public String saucelabs_accesskey = "";
 
@@ -172,7 +172,7 @@ public class CommonAPI {
 
     @AfterMethod
     public void cleanUp(){
-        driver.close();
+       // driver.close();
     }
 
     public void clickOnCss(String locator){

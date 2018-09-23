@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Cnn/Cnn.iml" filepath="$PROJECT_DIR$/Cnn/Cnn.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pnt/Pnt.iml" filepath="$PROJECT_DIR$/Pnt/Pnt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W3Schools/W3Schools.iml" filepath="$PROJECT_DIR$/W3Schools/W3Schools.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebAutomation.iml" filepath="$PROJECT_DIR$/WebAutomation.iml" />
     </modules>
   </component>
