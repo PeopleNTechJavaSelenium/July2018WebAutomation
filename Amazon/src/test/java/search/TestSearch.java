@@ -5,7 +5,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 import pages.SearchPage;
 import reporting.TestLogger;
-import sun.jvm.hotspot.debugger.Page;
+
 
 import java.io.IOException;
 

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-10-04T23:44:18Z" name="Employee REst API Automation Script " finished-at="2018-10-04T23:44:26Z" duration-ms="7803">
+    <groups>
+    </groups>
+    <test started-at="2018-10-04T23:44:18Z" name="Employee Information Services" finished-at="2018-10-04T23:44:26Z" duration-ms="7803">
+      <class name="rest.AllEmployeeRestServices">
+        <test-method signature="badCallAllEmployeeResources()[pri:0, instance:rest.AllEmployeeRestServices@52102734]" started-at="2018-10-04T23:44:22Z" name="badCallAllEmployeeResources" finished-at="2018-10-04T23:44:22Z" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- badCallAllEmployeeResources -->
+        <test-method signature="callAllEmployeeResources()[pri:0, instance:rest.AllEmployeeRestServices@52102734]" started-at="2018-10-04T23:44:22Z" name="callAllEmployeeResources" finished-at="2018-10-04T23:44:24Z" duration-ms="1931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callAllEmployeeResources -->
+        <test-method signature="serverErrorCallAllEmployeeResources()[pri:0, instance:rest.AllEmployeeRestServices@52102734]" started-at="2018-10-04T23:44:24Z" name="serverErrorCallAllEmployeeResources" finished-at="2018-10-04T23:44:26Z" duration-ms="1948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serverErrorCallAllEmployeeResources -->
+      </class> <!-- rest.AllEmployeeRestServices -->
+      <class name="rest.SingleEmployeeRestServices">
+        <test-method signature="callSingleEmployeeResources()[pri:0, instance:rest.SingleEmployeeRestServices@e1de817]" started-at="2018-10-04T23:44:18Z" name="callSingleEmployeeResources" finished-at="2018-10-04T23:44:22Z" duration-ms="3664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callSingleEmployeeResources -->
+      </class> <!-- rest.SingleEmployeeRestServices -->
+    </test> <!-- Employee Information Services -->
+  </suite> <!-- Employee REst API Automation Script  -->
+</testng-results>

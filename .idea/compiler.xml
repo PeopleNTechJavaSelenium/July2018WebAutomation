@@ -10,6 +10,7 @@
         <module name="Cnn" />
         <module name="Generic" />
         <module name="Pnt" />
+        <module name="Rest-API" />
         <module name="W3Schools" />
       </profile>
     </annotationProcessing>
@@ -18,6 +19,7 @@
       <module name="Cnn" target="1.8" />
       <module name="Generic" target="1.8" />
       <module name="Pnt" target="1.8" />
+      <module name="Rest-API" target="1.8" />
       <module name="W3Schools" target="1.8" />
       <module name="WebAutomation" target="1.8" />
     </bytecodeTargetLevel>

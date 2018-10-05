@@ -14,6 +14,7 @@
         <module>Cnn</module>
         <module>Pnt</module>
         <module>W3Schools</module>
+        <module>Rest-API</module>
     </modules>
 
     <dependencyManagement>
